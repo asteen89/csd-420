@@ -1,6 +1,8 @@
 // Alisa Steensen
 // Module 3.2
 
+// This program is using an ArrayList to store 50 random integers. I am removing the duplicates from the list using the static method removeDuplicates and printing the new list that contains only the unique original numbers. 
+
 // Reference for help on removing duplicates: Scaler Topics. (n.d.). How to Remove Duplicates from Arraylist in Java? https://www.scaler.com/topics/remove-duplicates-from-arraylist/
 
 

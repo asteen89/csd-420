@@ -1,0 +1,30 @@
+/* Alisa Steensen
+Module 7.2 */
+
+.border {
+    -fx-fill: #f4f4f4;
+    -fx-stroke: black;
+}
+.plaincircle {
+    -fx-fill: white;
+    -fx-stroke: black;
+    -fx-stroke-width: 1;
+}
+
+.redcircle {
+    -fx-fill: #ff3c2f;
+    -fx-stroke: black;
+}
+
+.greencircle {
+    -fx-fill: #4be18e;
+    -fx-stroke: black;
+}
+
+.rectangle {
+    -fx-stroke-width: 5;
+    -fx-stroke-dash-array: 12 2 4 2;
+    -fx-stroke: black;
+    -fx-fill: #ffffff;
+
+}

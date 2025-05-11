@@ -1,0 +1,18 @@
+/* Alisa Steensen Module 10.2 */
+
+.pane {
+    -fx-background-color: black;
+}
+
+.text-field {
+    -fx-background-color: #fffaf0;
+    -fx-border-color: #8a2be2;
+    -fx-border-radius: 5;
+    -fx-padding: 5;
+}
+
+.button {
+    -fx-background-color: #8a2be2;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
